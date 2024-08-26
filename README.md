@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I also make contributions to other project on [gitlab](https://gitlab.com/users/nyakaz73/contributed)
-https://gitlab.com/users/nyakaz73/contributed
+I also make contributions to other open source projects on [gitlab](https://gitlab.com/users/nyakaz73/contributed)
 
 
 <!--
