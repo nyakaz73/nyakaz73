@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I also make contributions to other project on [gitlab](https://gitlab.com/users/nyakaz73/contributed)
+https://gitlab.com/users/nyakaz73/contributed
+
+
 <!--
 **nyakaz73/nyakaz73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
